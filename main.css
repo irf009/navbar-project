@@ -208,7 +208,7 @@ nav {
   font-size: 1.1rem;
   letter-spacing: 0.2rem;
   display: inline-block;
-  padding: 0.35rem 1.25rem;
+  padding: 0.5rem 1.75rem;
   transition: var(--transition);
   cursor: pointer;
 }
@@ -220,9 +220,6 @@ nav {
 .links li {
   cursor: pointer;
   transition: var(--transition);
-}
-.contact {
-  padding-bottom: 0.35rem;
 }
 .links li:hover {
   background: var(--clr-primary-8);
@@ -249,7 +246,7 @@ nav {
   height: 21px;
 }
 .show-links {
-  height: 9.75rem;
+  height: 10.6rem;
 }
 @media screen and (min-width: 800px) {
   .nav-center {
